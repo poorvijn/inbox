@@ -37,7 +37,7 @@ const web3 = new Web3(ganache.provider());
 //     });
 // });
 
-// Code for actual smart contract testing
+// Code for actual smart contract testing starts from here
 let accounts;
 
 beforeEach(async()=> {
