@@ -1,0 +1,6 @@
+commands to import ganache and Web3 throughout the project:
+const Web3 = require('web3');
+const ganache = require('ganache');
+
+installing ganache and web3:
+npm install mocha ganache web3
